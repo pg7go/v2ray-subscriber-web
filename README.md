@@ -11,7 +11,7 @@ PHP非常方便搭建在任何平台上，用PYTHON是为了方便解析出订�
 原本想用PHP写的……我比较懒，就直接上PYTHON了  
 
 ## 依赖项
-multi-v2ray 一键脚本（我调用的它的PYTHON脚本）
+multi-v2ray 一键脚本（我调用的它的PYTHON脚本）  
 [https://github.com/Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)
 
 （PHP需要允许shell_exec函数）
